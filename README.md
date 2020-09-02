@@ -1,2 +1,0 @@
-# git-proyecto
-Practicas Git
